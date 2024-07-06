@@ -1,0 +1,7 @@
+1) patient Info according to patient Id
+2) Billing Information
+3) Bed occupancy breakdown
+4) overall feedback for doctor
+5) Diagnosis-wise stats
+6) Billing Vs insurance stats
+
